@@ -1,3 +1,7 @@
+# Colorization With Seam Carving
+
+
+
 <!-- # [CVPR 2020] Instance-aware Image Colorization
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericsujw/InstColorization/blob/master/InstColorization.ipynb)
 
