@@ -1,4 +1,4 @@
-# [CVPR 2020] Instance-aware Image Colorization
+<!-- # [CVPR 2020] Instance-aware Image Colorization
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericsujw/InstColorization/blob/master/InstColorization.ipynb)
 
 ### [[Paper](https://arxiv.org/abs/2005.10825)] [[Project Website](https://ericsujw.github.io/InstColorization/)] [[Google Colab](https://colab.research.google.com/github/ericsujw/InstColorization/blob/master/InstColorization.ipynb)]
@@ -89,3 +89,4 @@ If you find our code/models useful, please consider citing our paper:
 
 ## Acknowledgments
 Our code borrows heavily from the amazing [colorization-pytorch](https://github.com/richzhang/colorization-pytorch) repository.
+ -->
