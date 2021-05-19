@@ -1,4 +1,4 @@
-# Colorization With Seam Carving
+# Colorization Enhanced With Seam Carving
 
 <img src ="https://github.com/ipakuwal/colorization/blob/main/updated_enhanced_colorizer.gif" width="900">
 
