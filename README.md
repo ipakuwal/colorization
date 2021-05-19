@@ -3,11 +3,10 @@
 <img src ="https://github.com/ipakuwal/colorization/blob/main/updated_enhanced_colorizer.gif" width="900">
 
 # Result:
-We first start with a greyscale image which we colorize using Instance Colorization. Detailed instructions will be
-mentioned at the end of this description. Next, we take the colorized image, we use seam carving implementation to resize the image upto
-particular size. For the demonstration purposes, we resized the image upto 60% of it's original size. 
-In the end, we perform object removal technique as seen in the above gif, person in the image at the start of the gif disappears
-towards the end. 
+We first start with a greyscale image which we colorize using Instance Colorization. Next, we take the colorized image, we use 
+seam carving implementation to resize the image uptoparticular size. For the demonstration purposes, 
+we resized the image upto 60% of it's original size. In the end, we perform object removal technique as
+seen in the above gif, person in the image at the start of the gif disappears towards the end. 
 
 
 <!-- # [CVPR 2020] Instance-aware Image Colorization
