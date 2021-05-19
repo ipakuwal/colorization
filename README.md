@@ -1,5 +1,6 @@
 # Colorization With Seam Carving
 
+<img src ="https://github.com/ipakuwal/colorization/blob/main/updated_enhanced_colorizer.gif" width="900">
 
 
 <!-- # [CVPR 2020] Instance-aware Image Colorization
