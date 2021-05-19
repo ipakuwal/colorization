@@ -5,8 +5,9 @@
 # Result:
 We first start with a greyscale image which we colorize using Instance Colorization. Next, we take the colorized image, we use 
 seam carving implementation to resize the image uptoparticular size. For the demonstration purposes, 
-we resized the image upto 60% of it's original size. In the end, we perform object removal technique as
-seen in the above gif, person in the image at the start of the gif disappears towards the end. 
+we resized the image upto 60% of it's original size. Each of these white lines or curves represents a seam
+that gets removed at each step until we get to the targeted size selected by the user. In the end, we also perform object removal
+technique as seen in the above gif, person in the image at the start of the gif disappears towards the end. 
 
 
 <!-- # [CVPR 2020] Instance-aware Image Colorization
