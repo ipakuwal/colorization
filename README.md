@@ -2,6 +2,9 @@
 
 <img src ="https://github.com/ipakuwal/colorization/blob/main/updated_enhanced_colorizer.gif" width="900">
 
+We first start with a greyscale image which we will colorize using Instance Colorization. Detailed instructions will be
+mentioned at the end of description. 
+
 
 <!-- # [CVPR 2020] Instance-aware Image Colorization
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericsujw/InstColorization/blob/master/InstColorization.ipynb)
